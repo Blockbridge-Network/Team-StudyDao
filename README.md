@@ -5,6 +5,9 @@
 ## 🌐 Live App
 👉 **[https://study-dao-rose.vercel.app](https://study-dao-rose.vercel.app)**
 
+## 🌐 App Video Demo
+👉 **[https://youtu.be/RyHTBs9Vip8]**
+
 ## 🚀 Features
 - 📚 **Create & Join Study Groups**  
   Build or discover decentralized study communities.
